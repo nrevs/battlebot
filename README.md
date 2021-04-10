@@ -16,4 +16,5 @@ Battlebot related files
 - [] Speed Sensors
 - [] Accelerometer Sensors
 - [] Radar Sensors
-- [] RaspberryPi Overall Bot Manager
+- [] Bot Manager
+- [] Bot Systems Tester
